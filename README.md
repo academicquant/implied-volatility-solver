@@ -20,6 +20,6 @@ Arguments are spot, strike, rate, time in years, then `kind` ("call" or "put") a
 
 ## More practice
 
-Quant interview questions on options, probability and stochastic calculus, with worked answers: https://geodesicpartners.co.uk/quant-questions-stochastic-calculus
+Quant interview questions on options, probability and stochastic calculus, with worked answers: https://academicquant.co.uk/quant-questions-stochastic-calculus
 
 MIT licence.
